@@ -1,0 +1,42 @@
+Xsession: X session started for pi at Mon Jul 14 04:29:28 UTC 2014
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+(pcmanfm:2489): Gtk-WARNING **: Radio group does not contain an action with value '0'
+Pi Store would like your permission to create an 'indiecity' group on this Pi. You may have to enter your sudo password.
+
+(pcmanfm:2489): Gtk-CRITICAL **: IA__gtk_widget_is_toplevel: assertion `GTK_IS_WIDGET (widget)' failed
+addgroup: The group `indiecity' already exists.
+Added indiecity group.
+Pi Store would like your permission to add the user 'pi' to the indiecity usergroup. You may have to enter your sudo password.
+Executing: /usr/lib/squeak/4.10.2-2793/squeakvm -encoding UTF-8 -vm-display-x11 -xshm -plugins /usr/lib/scratch/plugins/:/usr/lib/squeak/4.10.2-2793/ -vm-sound-alsa /usr/share/scratch/Scratch20131203.image 
+Executing: /usr/lib/squeak/4.10.2-2793/squeakvm -encoding UTF-8 -vm-display-x11 -xshm -plugins /usr/lib/scratch/plugins/:/usr/lib/squeak/4.10.2-2793/ -vm-sound-alsa /usr/share/scratch/Scratch20131203.image 
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:2833): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 67800 requests (67800 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
+Xsession: X session started for pi at Mon Jul 14 14:25:22 UTC 2014
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 1702 requests (1699 known processed) with 0 events remaining.
+
+(pcmanfm:2270): GVFS-RemoteVolumeMonitor-WARNING **: invoking IsSupported() failed for remote volume monitor with dbus name org.gtk.Private.GduVolumeMonitor: org.freedesktop.DBus.Error.Disconnected: Connection was disconnected before a reply was received
+
+(pcmanfm:2270): GVFS-RemoteVolumeMonitor-WARNING **: invoking IsSupported() failed for remote volume monitor with dbus name org.gtk.Private.GPhoto2VolumeMonitor: org.freedesktop.DBus.Error.Disconnected: Connection is closed
+
+(pcmanfm:2270): GVFS-RemoteVolumeMonitor-WARNING **: invoking IsSupported() failed for remote volume monitor with dbus name org.gtk.Private.AfcVolumeMonitor: org.freedesktop.DBus.Error.Disconnected: Connection is closed
+The application 'pcmanfm' lost its connection to the display :0;
+most likely the X server was shut down or you killed/destroyed
+the application.

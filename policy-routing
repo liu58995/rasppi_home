@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#tab_xxx are defined in /etc/iproute2/rt_tables
+
+
+ip route flush table tab_eth0
+ip route add default via 192.168.1.1 dev eth0 src 192.168.1.4 table tab_eth0 
+ip rule add from 192.168.1.4 table tab_eth0
+
+ip route flush table tab_wlan0
+ip route add default via 192.168.5.1 dev wlan0 src 192.168.5.113 table tab_wlan0
+ip rule add from 192.168.5.113 table tab_wlan0

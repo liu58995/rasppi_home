@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata midori:current="0" owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="file:///usr/share/doc/midori/faq.html#getting_started">
+<title>‪file:///usr/share/doc/midori/faq.html#getting_started</title>
+<info>
+<metadata midori:icon="text-html" midori:history-step="1" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.ocr.org.uk/qualifications/by-subject/computing/raspberry-pi/">
+<title>‪Computing/Computer Science - Raspberry Pi - OCR</title>
+<info>
+<metadata midori:dont-write-history="1" midori:delay="0" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>

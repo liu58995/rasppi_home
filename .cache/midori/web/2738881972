@@ -1,0 +1,16 @@
+﻿/* 
+
+To be left empty and deployed to the 200 Global design folder in tridion as the master page references this file
+
+Business stream specific versions to be deployed to the relevant 300 or lower publication in the tridion blueprint
+
+NB this file is owned by the Business and should not be updated by .NET/New Media
+
+*/
+
+.landing-page .slider>li .landingPage li.relate-content,.landing-page .slider>li .landingPage li.depth-0 {
+	list-style-type:none;padding-left:0
+}
+.landing-page .slider>li .landingPage li.relate-content ul li,.landing-page .slider>li .landingPage li.depth-0 ul li {
+	list-style-type:disc;padding-left:1.5em
+}

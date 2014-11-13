@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#nohup 
+ssh -fN -R 7001:localhost:22 james@211.160.178.10 -p 20057
